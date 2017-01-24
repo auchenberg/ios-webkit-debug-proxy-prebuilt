@@ -6,5 +6,5 @@ Prebuilt binary distribution of ios-webkit-debug-proxy-win32
 
 ```
 npm install ios-webkit-debug-proxy-win32
-cd ./bin/ios_webkit_debug_proxy.exe
+cd ./node_modules/ios-webkit-debug-proxy-win32/bin/ios_webkit_debug_proxy.exe
 ```

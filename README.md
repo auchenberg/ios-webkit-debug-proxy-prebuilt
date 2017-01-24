@@ -1,4 +1,4 @@
-# ios-webkit-debug-proxy-win32-dist
+# ios-webkit-debug-proxy-win32-prebuilt
 Prebuilt binary distribution of ios-webkit-debug-proxy-win32
 
 
